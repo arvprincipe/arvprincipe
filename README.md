@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center" width="300">
+   <img align="center" class="my-avatar" width="200" src="https://avatars.githubusercontent.com/u/68167005?s=400&u=fd0a0f881a1d08c06b201fa1f7e380f55113b3ef&v=4" />
+   <h3 align="center">¡Hey 👋! Soy Alex Principe </h3>
+</p>
 
 <!--
 **arvprincipe/arvprincipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
