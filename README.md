@@ -6,7 +6,7 @@
 <p align="center">
   <span style="width: 8px;"> </span>
    <a href="https://youtube.com/arvprincipedev" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="midudev" height="23px" width="33px" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="arvprincipe(Alex Principe)" height="23px" width="33px" />
   </a>
   <span style="width: 8px;"> </span>
   <a href="https://www.instagram.com/arvprincipe.dev/" target="blank">
